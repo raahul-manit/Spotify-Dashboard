@@ -7,6 +7,9 @@ A dynamic, interactive Power BI dashboard designed to explore real-time Spotify 
 ## Short Description / Purpose
 The Spotify Real-Time Dashboard visualizes authentic streaming data to help users analyze top tracks, artists, and genres in real time. It enables data-driven decisions and insights for understanding global listening patterns and music popularity trends.
 
+
+<img width="1160" height="654" alt="Spotify" src="https://github.com/user-attachments/assets/091eaf7b-c589-4111-9ab5-a67d045a2387" />
+
 ---
 
 ## Tech Stack
